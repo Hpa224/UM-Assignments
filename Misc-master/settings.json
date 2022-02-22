@@ -1,0 +1,42 @@
+{
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.tabSize": 2,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+            "scope": "meta.function-call.generic.python",
+            "settings": {
+                "foreground": "#DCDCAA"
+            }
+            },
+            {
+            "scope": "source.python",
+            "settings": {
+                "foreground": "#9CDCFE"
+            }
+            },
+            {
+            "scope": "punctuation.definition.string.begin",
+            "settings": {
+                "foreground": "#ce9178"
+            }
+            },
+            {
+            "scope": "punctuation.definition.string.end",
+            "settings": {
+                "foreground": "#ce9178"
+            }
+            },
+            {
+            "scope": "punctuation",
+            "settings": {
+                "foreground": "#dfdfdf"
+            }
+            }
+        ],
+    "comments": "#6b914d"
+    // "comments": "#5e7e43"
+    
+    }
+}
